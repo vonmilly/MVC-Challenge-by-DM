@@ -20,8 +20,8 @@
     "express-handlebars": "^7.1.2",
     "express-session": "^1.18.0",
     "mysql": "^2.18.1",
+    "mysql2": "^3.9.1",
     "prettier": "^3.2.5",
     "sequelize": "^6.37.1"
-  },
-  "devDependencies": {}
+  }
 }
