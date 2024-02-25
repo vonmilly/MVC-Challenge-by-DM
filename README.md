@@ -24,6 +24,12 @@ This CMS-style blog site allows users to view, post, comment on, and interact wi
 3. Start the application with `npm start`; navigate to the provided local URL in your browser.
 4. Explore the features of the blog site, including viewing posts, signing up, logging in, and interacting with content.
 
+## Screenshots
+![login](assets/techlogin.png)
+![home](assets/techhomepage.png)
+![dashboard](assets/techdashboard.png)
+![comment](assets/techcomment.png)
+
 ## Features
 - **Homepage**: View existing blog posts with titles and creation dates. Navigation links for homepage, dashboard, and login/logout up are available if logged in or logged out.
 - **User Authentication**: Sign up to create an account or log in with existing credentials to interact with blog posts fully.
@@ -35,6 +41,9 @@ This CMS-style blog site allows users to view, post, comment on, and interact wi
 - **User Authentication**: Implementing a secure and efficient user authentication system for signing up, logging in, and auto-logout on inactivity.
 - **CRUD Operations**: Ensuring seamless CRUD operations for blog posts and comments within the CMS interface.
 - **UI/UX Design**: Designing an intuitive and responsive user interface that provides an excellent user experience across various devices.
+
+## Deployed Application link
+https://tech-blog-by-dm-a627a939e46e.herokuapp.com/
 
 ## Author
 ### Devonte Miller
