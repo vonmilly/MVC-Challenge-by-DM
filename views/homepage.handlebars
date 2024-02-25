@@ -1,0 +1,14 @@
+
+<ol class="post-list">
+    {{#if posts.length}}
+  {{#each posts as |post|}}
+  <li>
+    {{> post-info post }}
+  </li>
+  {{/each}}
+    {{else}}
+  <h1>Kinda boring here...</h1>
+  <p>Click Dashboard in nav to create a post.</p>
+  {{/if}}
+
+</ol>
